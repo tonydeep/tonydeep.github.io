@@ -1,5 +1,6 @@
 title: Tony Deep's Blogs
 description: Science with a spirit of adventure
+baseurl: "/"
 url: https://tonydeep.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 profile_url: "http://tonydeep.github.io"
 name: Tony Khánh
