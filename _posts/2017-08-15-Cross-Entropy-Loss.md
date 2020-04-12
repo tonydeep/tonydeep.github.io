@@ -14,6 +14,7 @@ comments: true
   - rnn -->
 
 # Cross-Entropy Loss là gì?
+
 {: class="table-of-content"}
 * TOC
 {:toc}
