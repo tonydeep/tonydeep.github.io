@@ -1,10 +1,11 @@
 title: Tony Deep's Blogs
+description: &description "Science with a spirit of adventure!"
+baseurl: "/" 
+url: https://tonydeep.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+profile_url: "http://tonydeep.github.io"
 name: &name "Tony Khánh"
 author: Tony Khanh
 twitter_username: TVKhanh_ICTU
-description: &description "Science with a spirit of adventure!"
-url: https://tonydeep.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-profile_url: "http://tonydeep.github.io"
 
 # Build settings
 markdown: kramdown
