@@ -1,9 +1,10 @@
 title: Tony Deep's Blogs
-name: Tony Deep's Blogs
+name: &name "Tony Khánh"
 author: Tony Khanh
 twitter_username: TVKhanh_ICTU
-baseurl: "/"
-description: Document my learning notes.
+baseurl: 
+description : &description "Science with a spirit of adventure!"
+url : https://tonydeep.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 profile_url: "http://tonydeep.github.io"
 
 # Build settings
@@ -20,3 +21,50 @@ kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge
+
+########-------------#######  
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+comments:
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  disqus:
+    shortname            : "tonydeep" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : "contrast"
+staticman:
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "master"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
+  requiredFields         : ['name', 'email', 'message']
+  transforms:
+    email                : "md5"
+  generatedFields:
+    date:
+      type               : "date"
+      options:
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+
+# SEO Related
+google_site_verification :
+bing_site_verification   : "0FC3FD70512616B052E755A56F8952D"
+alexa_site_verification  :
+yandex_site_verification : "2132801JL"
+
+# Analytics
+analytics:
+  provider               : "google-universal"   # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : "UA-86322230-1"
+    anonymize_ip         : false # default
