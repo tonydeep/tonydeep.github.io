@@ -1,7 +1,6 @@
 ---
 title: "Hàm Scan trong Tensorflow"
 date: 2017-08-09
-classes: wide
 excerpt: "Hàm scan là một một trong những hàm quan trọng trong Theano và giờ đây đã được Tensorflow sử dụng bởi sự tiện lợi và linh hoạt của nó."
 subtitle: "High Order Functions của Tensorflow"
 permalink: /posts/2017/08/09/tensorflow-scan-function/
