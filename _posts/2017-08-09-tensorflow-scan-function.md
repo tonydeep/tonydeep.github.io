@@ -8,7 +8,6 @@ permalink: /posts/2017/08/09/tensorflow-scan-function/
 mathjax: true
 categories: tensorflow
 ---
-<!-- {% include toc title="Unique Title" icon="file-text" %} -->
 
 ## Overview 
 
