@@ -6,13 +6,6 @@ subtitle: "High Order Functions của Tensorflow"
 permalink: /posts/2017/08/09/tensorflow-scan-function/
 mathjax: true
 categories: tensorflow
-tags: 
-  - tensorflow
-  - tutorials
-  - rnn
-header:
-  teaser: assets/images/unsplash-image-10.jpg
-  overlay_image: assets/images/unsplash-image-10.jpg
 ---
 <!-- {% include toc title="Unique Title" icon="file-text" %} -->
 
