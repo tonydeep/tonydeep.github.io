@@ -2,9 +2,9 @@
 title: Cross-Entropy Loss là gì?
 excerpt: This post reviews some extremely remarkable results in applying deep neural networks to natural language processing (NLP)
 date: 2017-07-07
-categories: tensorflow
 layout: post
 comments: true
+---
 <!-- tags: 
   - neural networks
   - deep learning
@@ -12,21 +12,13 @@ comments: true
   - NLP
   - recursive neural networks
   - rnn -->
-mathjax: true
----
 
 # Cross-Entropy Loss là gì?
+{: class="table-of-content"}
+* TOC
+{:toc}
 
 ## Contents
-
-- [Giới thiệu](#introduction)
-- [Entropy](#entropy)
-- [Cross Entropy](#cross-entropy)
-- [KL Divergence](#kl-divergence)
-- [Predictive Power](#predictive-power)
-- [Unified Loss](#unified-loss)
-- [Kết luận](#conclusions)
-- [Nguồn tham khảo](#resources)
 
 <a id="introduction"></a>
 ## Introduction
