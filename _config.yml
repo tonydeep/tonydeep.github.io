@@ -1,10 +1,10 @@
-title: Lil'Log
-name: "Lilian's Tech Blog"
-author: Lilian Weng
-twitter_username: lilianweng
-baseurl: "/lil-log"
+title: Tony Deep's Blogs
+name: "Tony's Tech Blog"
+author: Tony Khanh
+twitter_username: TVKhanh_ICTU
+baseurl: "/"
 description: Document my learning notes.
-profile_url: "http://lilianweng.github.io"
+profile_url: "http://tonydeep.github.io"
 
 # Build settings
 markdown: kramdown
