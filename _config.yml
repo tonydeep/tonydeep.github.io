@@ -1,10 +1,11 @@
 title: Tony Deep's Blogs
-name: "Tony's Tech Blog"
+description: Science with a spirit of adventure
+baseurl: "/"
+url: https://tonydeep.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+profile_url: "http://tonydeep.github.io"
+name: Tony Khánh
 author: Tony Khanh
 twitter_username: TVKhanh_ICTU
-baseurl: "/"
-description: Document my learning notes.
-profile_url: "http://tonydeep.github.io"
 
 # Build settings
 markdown: kramdown
@@ -20,31 +21,6 @@ kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge
-
-
-# title: Tony Deep's Blogs
-# description: Science with a spirit of adventure
-# baseurl: "/"
-# url: https://tonydeep.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-# profile_url: "http://tonydeep.github.io"
-# name: Tony Khánh
-# author: Tony Khanh
-# twitter_username: TVKhanh_ICTU
-
-# # Build settings
-# markdown: kramdown
-# highlighter: rouge
-# excerpt_separator: <!--more-->
-# plugins:
-#   - jekyll-feed
-#   - jekyll-archives
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-# kramdown:
-#   input: GFM
-#   auto_ids: true
-#   syntax_highlighter: rouge
 
 # ########-------------#######  
 # # breadcrumbs            : false # true, false (default)
