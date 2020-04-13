@@ -92,7 +92,8 @@ where $$[.;.]$$ is a concatenation operation. $$\mathbf{W}^q_i, \mathbf{W}^k_i \
 
 ## Transformer
 
-The **Transformer** (which will be referred to as "vanilla Transformer" to distinguish it from other enhanced versions; [Vaswani, et al., 2017](https://arxiv.org/abs/1706.03762)) model has an encoder-decoder architecture, as commonly used in many [NMT]({{ site.baseurl }}{% post_url 2018-06-24-attention-attention %}#born-for-translation) models. Later decoder-only Transformer was shown to achieve great performance in language modeling tasks, like in [GPT and BERT]({{ site.baseurl }}{% post_url 2019-01-31-generalized-language-models %}#openai-gpt).
+The **Transformer** (which will be referred to as "vanilla Transformer" to distinguish it from other enhanced versions; [Vaswani, et al., 2017](https://arxiv.org/abs/1706.03762)) model has an encoder-decoder architecture, as commonly used in many [NMT]({{ site.baseurl }}{% post_url 2018-06-24-attention-attention %}#born-for-translation) models. Later decoder-only Transformer was shown to achieve great performance in language modeling tasks, like in GPT and BERT.
+
 
 
 **Encoder-Decoder Architecture**

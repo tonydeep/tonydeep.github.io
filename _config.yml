@@ -1,9 +1,9 @@
 title: Tony Deep's Blogs
-name: "Tony Khanh"
-author: Tony Khanh
+name: TonyKhanh
+author: TonyKhanh
 twitter_username: TVKhanh_ICTU
 baseurl: "/"
-description: Science with a spirit of adventure.
+description: &description "Science with a spirit of adventure"
 profile_url: "http://tonydeep.github.io"
 
 # Build settings

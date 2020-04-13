@@ -4,7 +4,7 @@ comments: true
 title: Cross-Entropy Loss là gì?
 date: 2017-07-07
 categories: tensorflow
-tags: neural networks representations nlp recursive-neural-networks rnn
+tags: representations nlp recursive-neural-networks rnn
 mathjax: true
 ---
 > This post reviews some extremely remarkable results in applying deep neural networks to natural language processing (NLP)

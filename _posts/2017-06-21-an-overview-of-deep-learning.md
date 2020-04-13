@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 comments: true
 title: "An Overview of Deep Learning for Curious People"
