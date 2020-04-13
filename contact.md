@@ -1,7 +1,6 @@
 ---
 title: About
 layout: default
-permalink: /about/
 ---
 
 ![Image of about page](/assets/images/about/banner-4.jpg)
