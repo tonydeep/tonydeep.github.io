@@ -31,6 +31,12 @@ ruby RUBY_VERSION
 	# 	- If you installed Bundler, run `bundle update github-pages`.
 	# 	- If you don't have Bundler installed, run `gem update github-pages`.
 
+#   III. Keep chiseling on your blog
+	# Each time you make some changes to blog files on your computer, do the following:
+	# 1. Type ‘jekyll serve’ to preview your changes
+	# 2. If you’re happy with the changes and want to publish, first collect all the files to publish by typing ‘git add .’
+	# 3. Now make the commit by typing ‘git commit -m commit message’
+	# 4. Finally, type ‘git push origin gh-pages’
 
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
