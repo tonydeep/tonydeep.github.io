@@ -1,13 +1,13 @@
 ---
-title: About
 layout: default
 ---
 
-![Image of about page](/assets/images/about/banner-4.jpg)
-
-## About Me
-Hello! My name is **Khanh Tran**.  
-I was a PhD student in Natural Language Processing at Nguyen lab, JAIST, Japan. My research experience covers Deep Learning for Natural Language Generation, Natural Language Processing. 
+<!-- ![Image of about page](/assets/images/about/banner-4.jpg) -->
+<div class='other-pages'>
+	<img src="{{ '/assets/images/about/profile_3.png' | relative_url }}" width="250" height="270" />
+	<p></p>
+	<p>Hello! My name is <b>Khanh Tran</b>. I was a PhD student in Natural Language Processing at Nguyen lab, JAIST, Japan. My research experience covers Deep Learning for Natural Language Generation, Natural Language Processing. </p>
+</div>
 
 ## Research Interests
 * Deep Learning, Machine Learning
