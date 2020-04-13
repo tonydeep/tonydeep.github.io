@@ -24,11 +24,11 @@ Our paper ***"Gating Mechanism based Natural Language Generation for Spoken Dial
 Our paper ***"Dual Latent Variable Model for Low-Resource Natural Language Generation in Dialogue Systems"*** is accepted as poster at the 22nd Conference on Computational Natural Language Learning, (***CoNLL***) which will be colocated with ***EMNLP*** 2018 in Brussels, Belgium, October 2018. [[Link](http://aclweb.org/anthology/K18-1003)]
 
 ### April 2018
-Our paper ***"Adversarial Domain Adaptation for Variational Neural Language Generation in Dialogue Systems"*** is accepted for presentation at the 27th International Conference on Computational Linguistics (***COLING***), 2018 which will take place in Santa Fe, New-Mexico, USA, from August 20th through 26th 2018. [[Link](http://aclweb.org/anthology/C18-1103)]
+Our paper ***"Adversarial Domain Adaptation for Variational Neural Language Generation in Dialogue Systems"*** is accepted for oral presentation at the 27th International Conference on Computational Linguistics (***COLING***), 2018 which will take place in Santa Fe, New-Mexico, USA, from August 20th through 26th 2018. [[Link](http://aclweb.org/anthology/C18-1103)]
 
 <!-- 2017 -->
 ### May 2017
-Our paper ***"Natural Language Generation for Spoken Dialogue System using RNN Encoder-Decoder Networks"*** is accepted for presentation at the 21nd Conference on Computational Natural Language Learning, (***CoNLL***) which will be colocated with ***ACL*** 2017, in Vancouver, Canada. [[Link](http://aclweb.org/anthology/K17-1044)]
+Our paper ***"Natural Language Generation for Spoken Dialogue System using RNN Encoder-Decoder Networks"*** is accepted for oral presentation at the 21nd Conference on Computational Natural Language Learning, (***CoNLL***) which will be colocated with ***ACL*** 2017, in Vancouver, Canada. [[Link](http://aclweb.org/anthology/K17-1044)]
 
 ### April 2017
 Our paper ***"Enhanced Semantic Refinement Gate for RNN-based Neural Language Generator"*** is accepted for presentation at the 9th International Conference on Knowledge and Systems Engineering, (***KSE***), 2017 which will be held in Hue, Vietnam, October 2018. [[Link](10.1109/KSE.2017.8119454)]
@@ -37,7 +37,7 @@ Our paper ***"Enhanced Semantic Refinement Gate for RNN-based Neural Language Ge
 Our paper ***"Towards Domain Adaptation for Neural Network Language Generation in Dialogue"*** is accepted at 4th NAFOSTED Conference on Information and Computer Science, (***NICS***), 2017 which will be held in Hanoi, Vietnam.
 
 ### February 2017
-Our paper ***"Semantic Refinement GRU-based Neural Language Generation for Spoken Dialogue Systems"*** is accepted to present at the  5th International Conference of the Pacific Association for Computational Linguistics, (***PACLING***), 2017 which will be held in Yangon, Myanmar. And the online version is available at [[Link](arXiv:1706.00134)]
+Our paper ***"Semantic Refinement GRU-based Neural Language Generation for Spoken Dialogue Systems"*** is accepted to present at the  5th International Conference of the Pacific Association for Computational Linguistics, (***PACLING***), 2017 which will be held in Yangon, Myanmar. [[Link](arXiv:1706.00134)]
 
 ### February 2017
 Our paper ***"Improving Legal Information Retrieval by Distributional Composition with Term Order Probabilities"*** is accepted to present at the Competition on Legal Information Extraction/Entailment, (***COLIEE***), 2017 with *Carvalho Danilo* (1st author) and *Tran Duc Vu*.
