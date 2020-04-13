@@ -395,7 +395,7 @@ Try to implement the transformer model is an interesting experience, here is min
 
 ## SNAIL
 
-The transformer has no recurrent or convolutional structure, even with the positional encoding added to the embedding vector, the sequential order is only weakly incorporated. For problems sensitive to the positional dependency like [reinforcement learning]({{ site.baseurl }}{% post_url 2018-02-19-a-long-peek-into-reinforcement-learning %}), this can be a big problem.
+The transformer has no recurrent or convolutional structure, even with the positional encoding added to the embedding vector, the sequential order is only weakly incorporated. For problems sensitive to the positional dependency like reinforcement learning, this can be a big problem.
 
 The **Simple Neural Attention [Meta-Learner](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)** (**SNAIL**) ([Mishra et al., 2017](http://metalearning.ml/papers/metalearn17_mishra.pdf)) was developed partially to resolve the problem with [positioning](#full-architecture) in the transformer model by combining the self-attention mechanism in transformer with [temporal convolutions](https://deepmind.com/blog/wavenet-generative-model-raw-audio/). It has been demonstrated to be good at both supervised learning and reinforcement learning tasks.
 
@@ -410,7 +410,7 @@ SNAIL was born in the field of meta-learning, which is another big topic worthy 
 
 ## Self-Attention GAN
 
-*Self-Attention GAN* (**SAGAN**; [Zhang et al., 2018](https://arxiv.org/pdf/1805.08318.pdf)) adds self-attention layers into [GAN]({{ site.baseurl }}{% post_url 2017-08-20-from-GAN-to-WGAN %}) to enable both the generator and the discriminator to better model relationships between spatial regions.
+*Self-Attention GAN* (**SAGAN**; [Zhang et al., 2018](https://arxiv.org/pdf/1805.08318.pdf)) adds self-attention layers into GAN to enable both the generator and the discriminator to better model relationships between spatial regions.
 
 The classic [DCGAN](https://arxiv.org/abs/1511.06434) (Deep Convolutional GAN) represents both discriminator and generator as multi-layer convolutional networks. However, the representation capacity of the network is restrained by the filter size, as the feature of one pixel is limited to a small local region. In order to connect regions far apart, the features have to be dilute through layers of convolutional operations and the dependencies are not guaranteed to be maintained.
 
