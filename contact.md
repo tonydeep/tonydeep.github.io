@@ -1,10 +1,10 @@
 ---
 title: About
 layout: default
-<!-- permalink: /about/ -->
+permalink: /about/
 ---
 
-![Image of about page](/images/about/banner-4.jpg)
+![Image of about page](/assets/images/about/banner-4.jpg)
 
 ## About Me
 Hello! My name is **Khanh Tran**.  
